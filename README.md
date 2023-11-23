@@ -2,6 +2,9 @@
 
 Welcome to the Snake Game implemented in Rust! This project serves as a learning resource for Rust programming, demonstrating key concepts and features of the language. Whether you're new to Rust or looking to reinforce your skills, this project provides a practical example of building a simple game using the Rust programming language.
 
+![Image Description](./game.png)
+
+
 ## Learning Objectives
 
 1. **Enums and Structs:** Explore the use of enums and structs to model game entities such as the snake, blocks, and directions.
