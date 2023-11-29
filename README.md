@@ -128,3 +128,10 @@ If you would like to contribute to the project, feel free to fork the repository
 ## Issues and Support
 If you encounter any issues or have questions, please create an issue on the project's GitHub repository.
 
+## Support the Project
+
+<a href="https://www.buymeacoffee.com/eupassarin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
+
+
